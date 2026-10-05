@@ -2,5 +2,5 @@
 
 ## Claude notes
 
-- [English version]()
-- [Polish version]()
+- [English version](https://github.com/Adasieqk/inglisz/blob/main/Guides/OJA_C1-C2_Study_Guide.md)
+- [Polish version](https://github.com/Adasieqk/inglisz/blob/main/Guides/OJA_C1-C2_Przewodnik_PL.md)
